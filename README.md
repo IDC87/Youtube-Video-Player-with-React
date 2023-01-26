@@ -1,4 +1,4 @@
-# PUSH_SWAP
+# Youtube Video Player with React
 
 <b>A simple application that fetch information from youtube api and displays its videos with React and Babel support from Redux</b> 
 
@@ -6,4 +6,4 @@
 
 2 . <tt>npm start and go to localhost:8080 in the web browser </tt>
 
-![](push_swap_leaker_tester_demonstration_updated.gif)
+#![]()

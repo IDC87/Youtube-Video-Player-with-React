@@ -1,5 +1,5 @@
 {
-  "name": "YoutubePlayerTest",
+  "name": "youtube-video-player-with-react",
   "version": "1.0.0",
   "description": "A simple application using React that fetch information from youtube api and displays its videos",
   "main": "index.js",
