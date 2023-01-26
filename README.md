@@ -7,3 +7,4 @@
 2 . <tt>npm start and go to localhost:8080 in the web browser </tt>
 
 #![]()
+- need a valid google api to insert in the index.js file
